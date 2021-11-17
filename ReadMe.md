@@ -24,7 +24,7 @@ make testit
 sudo make install
 ```
 
-# How to use.
+# How to use
 
 Clone this package to your ROS working directory. Add `date_utils` as a dependency in the `package.xml` file. Add the library `date_utils` as a catkin component dependency to your own package's `CMakeLists.txt`.
 
